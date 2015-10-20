@@ -8,6 +8,8 @@ intrenet
 press CNTL+ALT+T to open a fresh terminal window
 paste the falowing into the window
 
+-----START COPY------
 wget https://raw.githubusercontent.com/djvalic/AOSP-COMMANDER/master/AOSP-COMMANDER.sh && chmod a+x AOSP-COMMANDER.sh && ./AOSP-COMMANDER.sh
+-----END COPY------
 
 #Done
